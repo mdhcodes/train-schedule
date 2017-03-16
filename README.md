@@ -1,4 +1,3 @@
 # train-schedule
 
-Firebase Database
-Moment.js
+Firebase Database | Moment.js
