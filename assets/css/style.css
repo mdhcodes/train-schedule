@@ -1,0 +1,14 @@
+div.jumbotron {
+  background-color: #337ab7;
+  color: #fff;
+}
+
+#add-train {
+  background-color: #337ab7;
+  color: #fff;
+}
+
+#add-train:hover {
+  background-color: #fff;
+  color: #337ab7;
+}
